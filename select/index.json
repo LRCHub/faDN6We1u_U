@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "帰り道",
+  "base_artist": "Hiplin",
+  "createdAt": "2026-03-14T11:56:33.375491Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "並木道 帰り道",
+      "artist": "Aoi Teshima",
+      "has_synced": true,
+      "path": "select/01_並木道_帰り道_Aoi_Teshima.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "帰り道",
+      "artist": "MONOGATARI Series",
+      "has_synced": true,
+      "path": "select/02_帰り道_MONOGATARI_Series.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "帰り道",
+      "artist": "物語シリーズ",
+      "has_synced": true,
+      "path": "select/03_帰り道_物語シリーズ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "帰り道",
+      "artist": "物語シリーズ",
+      "has_synced": true,
+      "path": "select/04_帰り道_物語シリーズ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "帰り道",
+      "artist": "Meychan",
+      "has_synced": true,
+      "path": "select/05_帰り道_Meychan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "帰り道(化物語)",
+      "artist": "八九寺真宵(加藤英美里)",
+      "has_synced": true,
+      "path": "select/06_帰り道(化物語)_八九寺真宵(加藤英美里).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "帰り道",
+      "artist": "八九寺真宵",
+      "has_synced": true,
+      "path": "select/07_帰り道_八九寺真宵.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "帰り道",
+      "artist": "〈物語〉シリーズ",
+      "has_synced": true,
+      "path": "select/08_帰り道_〈物語〉シリーズ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "帰り道",
+      "artist": "Fishmans",
+      "has_synced": false,
+      "path": "select/09_帰り道_Fishmans.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "帰り道",
+      "artist": "中山愛梨沙",
+      "has_synced": true,
+      "path": "select/10_帰り道_中山愛梨沙.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "帰り道",
+      "artist": "MONOGATARI Series",
+      "has_synced": true,
+      "path": "select/11_帰り道_MONOGATARI_Series.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "帰り道",
+      "artist": "コトリンゴ",
+      "has_synced": false,
+      "path": "select/12_帰り道_コトリンゴ.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "帰り道",
+      "artist": "みゆはん",
+      "has_synced": false,
+      "path": "select/13_帰り道_みゆはん.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "帰り道",
+      "artist": "大塚愛",
+      "has_synced": false,
+      "path": "select/14_帰り道_大塚愛.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "帰り道",
+      "artist": "八九寺真宵",
+      "has_synced": false,
+      "path": "select/15_帰り道_八九寺真宵.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "帰り道",
+      "artist": "〈物語〉シリーズ",
+      "has_synced": true,
+      "path": "select/16_帰り道_〈物語〉シリーズ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "帰り道",
+      "artist": "Hiplin, kojikoji",
+      "has_synced": false,
+      "path": "select/pl_01_帰り道_Hiplin,_kojikoji.txt"
+    }
+  ]
+}
